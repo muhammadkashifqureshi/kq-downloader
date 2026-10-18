@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KQ Downloader</string>
+    <string name="hint_url">Paste YouTube, TikTok or Instagram video link</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_fetch">Get Video</string>
+    <string name="btn_download">Download</string>
+    <string name="about">Developed by Kashif Qureshi</string>
+</resources>
